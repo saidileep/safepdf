@@ -1,0 +1,4 @@
+streamlit
+pypdf>=5.0
+pycryptodome
+cryptography>=42.0 
